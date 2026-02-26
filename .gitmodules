@@ -1,0 +1,3 @@
+[submodule "python-webscraper"]
+	path = python-webscraper
+	url = https://github.com/jsnieg/python-webscraper.git
